@@ -1,3 +1,6 @@
+New Feature: September 9th 2024 (CallMeCreadev)
+Allow users to run an executable that creates a drag and drop interface to convert their PDF into CSV.  No longer required to have python installed. 
+
 # 🍃 Robinhood 1099 Parser
 
 [![Build](https://github.com/kevinpark1217/Robinhood-1099-Parser/actions/workflows/build.yaml/badge.svg)](https://github.com/kevinpark1217/Robinhood-1099-Parser/actions/workflows/build.yaml)
